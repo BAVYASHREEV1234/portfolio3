@@ -1,8 +1,7 @@
 {
   "name": "bavya",
   "version": "0.1.0",
-  "homepage": "https://BAVYASHREE1234.github.io/Portfolio",
-
+  "homepage": "https://BAVYASHREEV1234.github.io/Portfolio3",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -20,7 +19,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
@@ -39,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
